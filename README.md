@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Analytics and Mobile Application Development
-- 🌱 I’m currently learning Android Studio
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently  Spring Boot and Postgre SQL
 - 👯 I’m looking to collaborate on Machine Learning     
-- 🤔 I’m looking for help with Data Science 
+- 🤔 I’m intersted in Machine Learning, Development and Testing
 - 📫 How to reach me: vijay.manoj.kota@gmail.com
 
